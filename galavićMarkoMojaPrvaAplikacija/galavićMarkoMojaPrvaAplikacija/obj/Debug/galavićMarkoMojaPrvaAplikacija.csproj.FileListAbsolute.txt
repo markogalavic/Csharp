@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\galavićMarkoMojaPrvaAplikacija\galavićMarkoMojaPrvaAplikacija\obj\Debug\galavićMarkoMojaPrvaAplikacija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\galavićMarkoMojaPrvaAplikacija\galavićMarkoMojaPrvaAplikacija\obj\Debug\galavićMarkoMojaPrvaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\galavićMarkoMojaPrvaAplikacija\galavićMarkoMojaPrvaAplikacija\bin\Debug\galavićMarkoMojaPrvaAplikacija.exe.config
+C:\Users\3.D\source\repos\galavićMarkoMojaPrvaAplikacija\galavićMarkoMojaPrvaAplikacija\bin\Debug\galavićMarkoMojaPrvaAplikacija.exe
+C:\Users\3.D\source\repos\galavićMarkoMojaPrvaAplikacija\galavićMarkoMojaPrvaAplikacija\bin\Debug\galavićMarkoMojaPrvaAplikacija.pdb
+C:\Users\3.D\source\repos\galavićMarkoMojaPrvaAplikacija\galavićMarkoMojaPrvaAplikacija\obj\Debug\galavićMarkoMojaPrvaAplikacija.exe
+C:\Users\3.D\source\repos\galavićMarkoMojaPrvaAplikacija\galavićMarkoMojaPrvaAplikacija\obj\Debug\galavićMarkoMojaPrvaAplikacija.pdb

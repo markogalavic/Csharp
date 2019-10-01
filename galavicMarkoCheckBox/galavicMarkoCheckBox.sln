@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "galavicMarkoCheckBox", "galavicMarkoCheckBox\galavicMarkoCheckBox.csproj", "{1E220B72-6785-4B4B-BEE1-7D1ECF0B84CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E220B72-6785-4B4B-BEE1-7D1ECF0B84CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E220B72-6785-4B4B-BEE1-7D1ECF0B84CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E220B72-6785-4B4B-BEE1-7D1ECF0B84CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E220B72-6785-4B4B-BEE1-7D1ECF0B84CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD78269F-3B42-40CF-B2E5-C072D99F7F7A}
+	EndGlobalSection
+EndGlobal

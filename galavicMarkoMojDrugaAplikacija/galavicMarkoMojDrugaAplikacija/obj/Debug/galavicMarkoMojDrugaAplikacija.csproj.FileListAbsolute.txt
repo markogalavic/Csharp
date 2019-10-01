@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\obj\Debug\galavicMarkoMojDrugaAplikacija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\obj\Debug\galavicMarkoMojDrugaAplikacija.Form1.resources
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\obj\Debug\galavicMarkoMojDrugaAplikacija.Properties.Resources.resources
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\obj\Debug\galavicMarkoMojDrugaAplikacija.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\obj\Debug\galavicMarkoMojDrugaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\bin\Debug\galavicMarkoMojDrugaAplikacija.exe.config
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\bin\Debug\galavicMarkoMojDrugaAplikacija.exe
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\bin\Debug\galavicMarkoMojDrugaAplikacija.pdb
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\obj\Debug\galavicMarkoMojDrugaAplikacija.exe
+C:\Users\3.D\source\repos\galavicMarkoMojDrugaAplikacija\galavicMarkoMojDrugaAplikacija\obj\Debug\galavicMarkoMojDrugaAplikacija.pdb
