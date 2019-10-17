@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\galavićMarkoKreiranjeProjekta\galavićMarkoKreiranjeProjekta\bin\Debug\galavićMarkoKreiranjeProjekta.exe.config
+C:\Users\3.D\source\repos\galavićMarkoKreiranjeProjekta\galavićMarkoKreiranjeProjekta\bin\Debug\galavićMarkoKreiranjeProjekta.exe
+C:\Users\3.D\source\repos\galavićMarkoKreiranjeProjekta\galavićMarkoKreiranjeProjekta\bin\Debug\galavićMarkoKreiranjeProjekta.pdb
+C:\Users\3.D\source\repos\galavićMarkoKreiranjeProjekta\galavićMarkoKreiranjeProjekta\obj\Debug\galavićMarkoKreiranjeProjekta.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\galavićMarkoKreiranjeProjekta\galavićMarkoKreiranjeProjekta\obj\Debug\galavićMarkoKreiranjeProjekta.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\galavićMarkoKreiranjeProjekta\galavićMarkoKreiranjeProjekta\obj\Debug\galavićMarkoKreiranjeProjekta.exe
+C:\Users\3.D\source\repos\galavićMarkoKreiranjeProjekta\galavićMarkoKreiranjeProjekta\obj\Debug\galavićMarkoKreiranjeProjekta.pdb
